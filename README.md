@@ -1,1 +1,1 @@
-# HackerRank_1_Week_Preparation_Kit
+# HackerRank Preparation
